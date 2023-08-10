@@ -1,0 +1,68 @@
+body{
+    background: rgb(84, 84, 84);
+}
+.boxout{
+    width: 350px;
+    height: 400px;
+    background: rgb(23, 23, 23);
+    border-radius: 5px;
+}
+.textemploy{
+    font-size: 22px;
+    color: white;
+    font-family: 'Aleo', serif;
+    height: 70px;
+    border-bottom: 2px solid  rgb(0, 0, 0);
+}
+.email{
+    height: 20px;
+    color: rgba(255, 255, 255, 0.562);
+    font-family: 'Aleo', serif;
+    padding-left: 23px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.inputemail{
+    background:rgb(99, 99, 99);
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+}
+.addpass{
+    margin-bottom: 20px;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.flex1{
+    display: flex;
+}
+.square{
+    background: white;
+    width: 16px;
+    height: 16px;
+    margin-left: 23px;
+    display: flex;
+    z-index: 0;
+}
+.remember{
+    color: white;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.textforgot{
+    color:rgb(0, 102, 211);
+    margin-top: 70px;
+    margin-left: 23px;
+}
+.button button{
+    display: block;
+    width: 70px;
+    height: 30px;
+    background: rgb(42, 42, 255);
+    border: none;
+    border-radius: 5px;
+    margin-left: 116px;
+    color: white;
+}
